@@ -1,0 +1,103 @@
+.navbar{
+	background-color: #337AB7;
+
+}
+.calcelHover:hover{
+	background-color: transparent; 
+}
+.navbar a{
+	color: white;
+	font-size: 12px;
+        font-family: inherit;
+}
+.tabDiv{
+	background-color: #337AB7;
+	height: 30px;
+	margin-left: 180px;
+	padding-top: 5px;
+	border-radius: 60px 60px 60px 60px;
+	color: white;
+	text-align: center;
+}
+.tabDiv a{
+	text-decoration: none;
+	color: white;
+
+
+}
+.tabDiv1{
+	background-color: #337AB7;
+	border-radius: 40px 20px 40px 20px;
+	height: 30px;
+	padding-top: 5px;
+	color: white;
+	margin-left: 10px;
+	text-align: center;
+	cursor: pointer;
+}
+.tabDiv1:hover{
+	background-color: white;
+	color: #337AB7;
+	border: 1px #337AB7 solid;
+}
+.clearfix {
+    overflow: auto;
+}
+
+.getHover a:hover{
+	background-color: #F2F2F2;
+	color: #337AB7;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+    
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #337AB7; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #E5E5E5; 
+    border-radius: 10px;
+
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: ; 
+
+}
+
+.txt{
+    
+    font-family: fantasy;
+    letter-spacing: 1px;
+}
+
+.tur{
+      font-size: 11pt;
+    font-weight: bold;
+
+}
+
+.space{
+    margin-bottom: 127px;
+}
+
+
+.ct-ui {
+        margin-bottom: 127px;
+    }
+
+.sala {
+    font-size:10pt;
+    color:#ffff;
+}
+
+
+
+

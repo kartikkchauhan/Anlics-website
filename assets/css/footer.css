@@ -1,0 +1,52 @@
+#main{
+	background-color: #3579B5;
+}
+
+#main h3{
+	color: #fff;
+}
+
+#about{
+	color: #fff;
+	font-size: 15px;
+}
+
+#iconleft{
+	color: #fff;
+}
+
+#rightside input{
+	background-color: #ABB1BA;
+	width: 365px;
+	height: 45px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border: 1px solid #ABB1BA;
+	border-radius: 30px;
+	color: #fff;
+}
+
+#rightside input:hover{
+	border: 2px solid #fff;
+}
+
+#rightside button{
+	margin-left: 5px;
+	width: 100px;
+	height: 40px;
+	border-radius: 20px;
+	font-size: 18px;
+}
+
+#menuscenter ul li{
+	color: #fff;
+}
+
+#menuscenter ul li a{
+	color: #fff;
+}
+
+#footeranlics p{
+	color: #fff;
+	margin-top: 5px;
+}
